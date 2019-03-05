@@ -32,5 +32,4 @@ public class ORMDemoController {
         return bookRepository.findAll();
     }
 
-
 }
